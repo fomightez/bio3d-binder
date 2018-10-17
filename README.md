@@ -1,17 +1,48 @@
+# bio3d-binder
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/bio3d-binder/master?filepath=index.ipynb)
 
-# bio3d-binder
-Launchable, working Jupyter-baseed environment with bio3D package for Biological Structure Analysis running in RStudio with some examples
+*tl;dr:*  
+Click any `launch binder` badge on this page to use the Bio3D package inside your browser.
 
-The badge above will open with Jupyter+R (R as kernel. Alternatively, if you wish to work in RStudio, you can switch after it opens. To switch, edit the URL to replace the `notebooks/index.ipynb` with `rstudio` in the address bar of your browser. It should then open RStudio. At this time, you can access the same code by opening the R script, `bio3d_use.R`. I'll try to keep them the same but it is best to check if the one in `bio3d_use.R` seems to be lacking something you saw when the notebook opened in default mode.
+------
+
+***Bio3D:  analysis of macromolecular structure, sequence and trajectory data.***
+
+The [Bio3D](http://thegrantlab.org/bio3d/index.php), an R package for the analysis of macromolecular structure, sequence and trajectory data.
 
 
-## About the package
+-------
 
-The package is by the Grant Lab. This repo was just set up to have launchable version available for users without need for installation steps. I illustrate some of my favorite uses.
+Software
+--------
 
-* [Main bio3D site](http://thegrantlab.org/bio3d/index.php)
-* [Bio3D's Package index](https://rdrr.io/cran/bio3d/) where you can search and examples of steps are available
+The Bio3D package will be installed already in each active session launched from this repo. The Bio3D software is available as most R resources R, but I found the developmental version was best, see 'Technical notes' below.
+
+The package is by the Grant Lab. This repo was just set up to have launchable version available for users without need for installation steps. I illustrate some of my favorite uses. You can find out more at the resources below.
+
+* [Main bio3D site](http://thegrantlab.org/bio3d/index.php) with many resources.
+* [Bio3D's Package index](https://rdrr.io/cran/bio3d/) where you can search and examples of steps are available.
+
+Users of Bio3D should cite:
+
+Bio3D: An R package for the comparative analysis of protein structures.  
+Grant, Rodrigues, ElSawy, McCammon, Caves, (2006) Bioinformatics 22, 2695-2696. [PMID: 16940322](https://www.ncbi.nlm.nih.gov/pubmed/16940322).
+
+Integrating protein structural dynamics and evolutionary analysis with Bio3D. 
+Skjærven, Yao, Scarabelli, Grant, (2014) BMC Bioinformatics 15, 399. [PMID: 25491031 ](https://www.ncbi.nlm.nih.gov/pubmed/25491031 ). 
+
+Online interactive analysis of protein structure ensembles with Bio3D-web. 
+Skjærven, Jariwala, Yao, Grant, (2016) Bioinformatics, Volume 32, Issue 22, 15 November 2016, Pages 3510–3512. [PMID: 27423893](https://www.ncbi.nlm.nih.gov/pubmed/27423893)
+
+
+***Clarifying Software Attribution: I, Wayne, am not involved in the Bio3D package at all. Those in the Grant Lab the developers and distributors of Bio3D. See their materials. I simply set up this repository to make the package useable in a browser without installation headaches.***
+
+There is supposedly [a web-based version of Bio3D](http://thegrantlab.org/bio3d/webapps) that looks to have some , but not all of the functionality of the R package. However, when I try to use it, I receive a note about Shiny Server evaluation period and get booted off.
+
+## License for Bio3D
+
+According to the authors/ developers, the Bio3D package is distributed with full source code and extensive documentation as a platform independent R package under a GPL2 license from http://thegrantlab.org/bio3d/ , see [here](http://thegrantlab.org/bio3d/index.php).
 
 ## Technical notes
 
