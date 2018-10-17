@@ -1,9 +1,4 @@
 # Prepare to use the bio3D package
-#if(!require(bio3d)){install.packages("bio3d")}
-if(!require(devtools)){install.packages("devtools")}
-library(devtools)
-install_bitbucket("Grantlab/bio3d", subdir="ver_devel/bio3d/") #needed for XML, see https://bitbucket.org/Grantlab/bio3d/issues/545/error-xml-content-does-not-seem-to-be-xml
-if(!require(XML)){install.packages("XML")}
 library(bio3d)
 library(XML) #needed for using `pdbaln`
 
