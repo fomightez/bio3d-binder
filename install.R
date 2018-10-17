@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("bio3d")
+install.packages('leaflet')
