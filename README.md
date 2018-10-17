@@ -26,13 +26,13 @@ The package is by the Grant Lab. This repo was just set up to have launchable ve
 
 Users of Bio3D should cite:
 
-Bio3D: An R package for the comparative analysis of protein structures.  
+- Bio3D: An R package for the comparative analysis of protein structures.  
 Grant, Rodrigues, ElSawy, McCammon, Caves, (2006) Bioinformatics 22, 2695-2696. [PMID: 16940322](https://www.ncbi.nlm.nih.gov/pubmed/16940322).
 
-Integrating protein structural dynamics and evolutionary analysis with Bio3D. 
+- Integrating protein structural dynamics and evolutionary analysis with Bio3D. 
 Skjærven, Yao, Scarabelli, Grant, (2014) BMC Bioinformatics 15, 399. [PMID: 25491031 ](https://www.ncbi.nlm.nih.gov/pubmed/25491031 ). 
 
-Online interactive analysis of protein structure ensembles with Bio3D-web. 
+- Online interactive analysis of protein structure ensembles with Bio3D-web. 
 Skjærven, Jariwala, Yao, Grant, (2016) Bioinformatics, Volume 32, Issue 22, 15 November 2016, Pages 3510–3512. [PMID: 27423893](https://www.ncbi.nlm.nih.gov/pubmed/27423893)
 
 
