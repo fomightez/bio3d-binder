@@ -38,7 +38,7 @@ Skjærven, Jariwala, Yao, Grant, (2016) Bioinformatics, Volume 32, Issue 22, 15 
 
 ***Clarifying Software Attribution: I, Wayne, am not involved in the Bio3D package at all. Those in the Grant Lab the developers and distributors of Bio3D. See their materials. I simply set up this repository to make the package useable in a browser without installation headaches.***
 
-There is supposedly [a web-based version of Bio3D](http://thegrantlab.org/bio3d/webapps) that looks to have some , but not all of the functionality of the R package. However, when I try to use it, I receive a note about Shiny Server evaluation period and get booted off.
+There is supposedly [a web-based version of Bio3D](http://thegrantlab.org/bio3d/webapps) that looks to have some, but not all of the functionality of the R package. However, when I try to use the web-based version, I receive a note about Shiny Server evaluation period and get booted off.
 
 ## License for Bio3D
 
