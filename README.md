@@ -1,6 +1,6 @@
 # bio3d-binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/bio3d-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/bio3d-binder/master?filepath=index.ipynb)
 
 *tl;dr:*  
 Click any `launch binder` badge on this page to use the Bio3D package inside your browser.
@@ -44,6 +44,10 @@ There is supposedly [a web-based version of Bio3D](http://thegrantlab.org/bio3d/
 
 According to the authors/ developers, the Bio3D package is distributed with full source code and extensive documentation as a platform independent R package under a GPL2 license from http://thegrantlab.org/bio3d/ , see [here](http://thegrantlab.org/bio3d/index.php).
 
+## Related 
+
+See [here](https://github.com/fomightez/sequencework/blob/master/README.md#related-binderized-utilities) for a listing of resources in a similar vein yet targeted to biological sequence data.
+
 ## Technical notes
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
@@ -54,4 +58,4 @@ This launched active Jupyter session uses the developmental version of Bio3D bec
 
 Click `launch binder` below to start using bio3D.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/bio3d-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/bio3d-binder/master?filepath=index.ipynb)
